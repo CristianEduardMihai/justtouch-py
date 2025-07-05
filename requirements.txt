@@ -1,0 +1,22 @@
+# Core Kivy framework for mobile app development
+kivy==2.2.0
+kivymd==1.1.1
+setuptools==80.9.0
+Cython==0.29.33
+
+# Mobile platform support - essential for NFC
+buildozer==1.5.0
+pyjnius==1.4.2
+plyer==2.1.0
+
+# Additional dependencies can be added gradually:
+# aiortc==1.6.0
+# websockets==11.0.3
+# libtorrent==2.0.9
+# aiofiles==23.2.1
+# qrcode==7.4.2
+# Pillow==10.0.1
+# cryptography==41.0.7
+# netifaces==0.11.0
+# socket.io==5.9.0
+# python-socketio[client]==5.9.0
